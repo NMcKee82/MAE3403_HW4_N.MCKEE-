@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3ec7a62-1335-4568-9c18-96854c9fd05c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MAE3403_SP24_HW4_N.MCKEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemA-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemA-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemA-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemB-0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemC-0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemC-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/ProblemC-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre-attempts/Problema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemA-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemB-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemC-matrix arrays.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cqC9xkCdzIpO7gNce6wNvjnTIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ProblemA-1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemA-2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemA-3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemA-4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemB-0.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemB-1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemC-0.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemC-1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemC-2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ProblemC-matrix arrays.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Problema.executor&quot;: &quot;Debug&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nmckee\PycharmProjects\MAE3403_SP24_HW4_N.MCKEE\Pre-attempts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ec7a62-1335-4568-9c18-96854c9fd05c" name="Changes" comment="" />
+      <created>1708829573731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708829573731</updated>
+    </task>
+    <servers />
+  </component>
+</project>
